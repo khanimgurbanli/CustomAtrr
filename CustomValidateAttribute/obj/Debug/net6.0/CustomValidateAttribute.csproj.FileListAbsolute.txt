@@ -1,0 +1,15 @@
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.csproj.AssemblyReference.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.AssemblyInfoInputs.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.AssemblyInfo.cs
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\bin\Debug\net6.0\CustomValidateAttribute.exe
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\bin\Debug\net6.0\CustomValidateAttribute.deps.json
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\bin\Debug\net6.0\CustomValidateAttribute.runtimeconfig.json
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\bin\Debug\net6.0\CustomValidateAttribute.dll
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\bin\Debug\net6.0\CustomValidateAttribute.pdb
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.dll
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\refint\CustomValidateAttribute.dll
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.pdb
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\CustomValidateAttribute.genruntimeconfig.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\CustomValidateAttribute\CustomValidateAttribute\obj\Debug\net6.0\ref\CustomValidateAttribute.dll
